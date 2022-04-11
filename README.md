@@ -2,8 +2,8 @@
 - 👀 I’m interested in Technology. Especially in Software Development.
 - 🌱 I’m currently learning MERN Stack. And I understand HTML, CSS, Javascript, Bootstrap, and React.
 - 📫 How to reach me ? You can visit my social media.
-- Instagram : instagram.com/agung_gml
-- Linkedin : linkedin.com/in/hellogung
+- Instagram : https://instagram.com/agung_gml
+- Linkedin : https://linkedin.com/in/hellogung
 - Email : gunghello@gmail.com
 
 <!---
